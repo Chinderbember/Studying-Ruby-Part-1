@@ -1,6 +1,0 @@
-# frozen_string_literal: true
-
-desc 'Вывод текущих даты и времени'
-task :dateandtimenow do
-  print Time.new
-end
